@@ -3,7 +3,7 @@ title: "陈思源"
 type : list-single
 toc: true
 ---
-{{<figure src="https://github.com/StevenQAQ/StevenQAQ.github.io/static/photo/csy.png" title="" width="450">}}
+{{<figure src="https://github.com/StevenQAQ/StevenQAQ.github.io/blob/master/content/cn/about/csy.png" title="" width="450">}}
 
 电话：+86-180-5939-5939
 
