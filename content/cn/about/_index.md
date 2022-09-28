@@ -3,30 +3,46 @@ title: "陈思源"
 type : list-single
 toc: true
 ---
-{{<figure src="https://github.com/StevenQAQ/StevenQAQ.github.io/blob/master/content/cn/about/csy.png" title="" width="450">}}
 
-电话：+86-180-5939-5939
 
-个人网站：stevenqaq.github.io
+>  时来天地皆同力，运去英雄不自由
 
-生日：2001年1月6日
 
-## 教育经历
+
+## 联系方式
+
+
+Email：   siyuan_2022@foxmail.com   
+主页：    stevenqaq.github.io
+
+
+## 研究兴趣
+    
+    
+专利计量
+    
+    
+## 教育背景
+
+2022 至今，武汉大学，图书情报（硕士）
+  
+   - 导师：黄颖
 
 2018-2022，南京理工大学，信息管理与信息系统（本科）
 
    - 毕业论文：《基于领域实体计量的学科发展态势研究》
    - 指导老师：陈果
 
-2022-，武汉大学，图书情报（硕士）
-  
-   - 导师：黄颖
+## 参与项目
+   - 2022.09  
+      plumx分析    
 
-## 发表
-### 期刊
+   - 2022.08   
+      襄阳试点项目——“湖北隆中实验室科技专项”专家遴选工作   
 
+   - 2022.06 ~ 2022.08    
+      国际科技创新中心指数2022(Global Innovation Index,GIHI)专利指数测度    
 
-### 专著
 
 
 
