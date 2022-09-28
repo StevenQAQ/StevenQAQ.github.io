@@ -71,8 +71,8 @@ posts = "/posts/:year/:month/:day/:slug/"
       cn = "陈思源"
 
     [params.lang.madeWith]
-      en = "Made with"
-      cn = "本站驱动"
+      en = ""
+      cn = ""
 
     [params.lang.edit]
       en = "Suggest an edit of this page"
