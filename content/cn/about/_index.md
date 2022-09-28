@@ -3,7 +3,7 @@ title: "陈思源"
 type : list-single
 toc: true
 ---
-
+{{<figure src="csy.jpg" title="This is me, which is me (我就是我，不一样的烟火)" width="450">}}
 
 电话：+86-180-5939-5939
 
